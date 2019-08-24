@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color: #20315A; 
+    color: rgb(240, 240, 240);
+}
+.card-body a {
+    word-break: break-all;
+  }
+.articleHeadline {
+    line-height: 1.5;
+}
+a:hover {
+    color:#ff3def !important;
+}
